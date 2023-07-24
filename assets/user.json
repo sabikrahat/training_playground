@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Mr. Alice",
+        "username": "alice",
+        "email": "alice@algoramming.com",
+        "password": "alice123",
+        "profession": "Software Engineer"
+    },
+    {
+        "name": "Mr. Bob",
+        "username": "bob",
+        "email": "bob@algoramming.com",
+        "password": "bob123",
+        "profession": null
+    },
+    {
+        "name": "Mr. Charlie",
+        "username": "charlie",
+        "email": "charlie@algoramming.com",
+        "password": "charlie123",
+        "profession": "Software Engineer"
+    },
+    {
+        "name": "Mr. David",
+        "username": "david",
+        "email": "david@algoramming.com",
+        "password": "david123",
+        "profession": "Software Engineer"
+    },
+    {
+        "name": "Mr. Eve",
+        "username": "eve",
+        "email": "eve@algoramming.com",
+        "password": "eve123",
+        "profession": "Software Engineer"
+    },
+    {
+        "name": "Mr. Frank",
+        "username": "frank",
+        "email": "frank@algoramming.com",
+        "password": "frank123",
+        "profession": null
+    },
+    {
+        "name": "Mr. George",
+        "username": "george",
+        "email": "george@algoramming.com",
+        "password": "george123",
+        "profession": null
+    },
+    {
+        "name": "Mr. Henry",
+        "username": "henry",
+        "email": "henry@algoramming.com",
+        "password": "henry123",
+        "profession": null
+    },
+    {
+        "name": "Mr. Ida",
+        "username": "ida",
+        "email": "ida@algoramming.com",
+        "password": "ida123",
+        "profession": null
+    },
+    {
+        "name": "Mr. John",
+        "username": "john",
+        "email": "john@algoramming.com",
+        "password": "john123",
+        "profession": null
+    }
+]
